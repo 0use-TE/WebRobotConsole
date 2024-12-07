@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LX\\Desktop\\WebRobotConsole\\WebRobotConsole\\",
+  "WorkspaceRootPath": "C:\\Users\\LX\\Desktop\\WebRobotConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCDC8950-DC0F-4139-915C-7CCD024362F2}|WebRobotConsole\\WebRobotConsole.csproj|c:\\users\\lx\\desktop\\webrobotconsole\\webrobotconsole\\webrobotconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCDC8950-DC0F-4139-915C-7CCD024362F2}|WebRobotConsole\\WebRobotConsole.csproj|c:\\users\\lx\\desktop\\webrobotconsole\\webrobotconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCDC8950-DC0F-4139-915C-7CCD024362F2}|WebRobotConsole\\WebRobotConsole.csproj|solutionrelative:webrobotconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC8950-DC0F-4139-915C-7CCD024362F2}|WebRobotConsole\\WebRobotConsole.csproj|c:\\users\\lx\\desktop\\webrobotconsole\\webrobotconsole\\misc\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDC8950-DC0F-4139-915C-7CCD024362F2}|WebRobotConsole\\WebRobotConsole.csproj|solutionrelative:webrobotconsole\\misc\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC8950-DC0F-4139-915C-7CCD024362F2}|WebRobotConsole\\WebRobotConsole.csproj|c:\\users\\lx\\desktop\\webrobotconsole\\webrobotconsole\\misc\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDC8950-DC0F-4139-915C-7CCD024362F2}|WebRobotConsole\\WebRobotConsole.csproj|solutionrelative:webrobotconsole\\misc\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +22,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\WebRobotConsole\\WebRobotConsole\\Misc\\Settings.cs",
+              "RelativeDocumentMoniker": "WebRobotConsole\\Misc\\Settings.cs",
+              "ToolTip": "C:\\Users\\LX\\Desktop\\WebRobotConsole\\WebRobotConsole\\Misc\\Settings.cs",
+              "RelativeToolTip": "WebRobotConsole\\Misc\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:21:57.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\WebRobotConsole\\WebRobotConsole\\Misc\\Tools.cs",
+              "RelativeDocumentMoniker": "WebRobotConsole\\Misc\\Tools.cs",
+              "ToolTip": "C:\\Users\\LX\\Desktop\\WebRobotConsole\\WebRobotConsole\\Misc\\Tools.cs",
+              "RelativeToolTip": "WebRobotConsole\\Misc\\Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:21:47.543Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\WebRobotConsole\\WebRobotConsole\\WebRobotConsole\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\LX\\Desktop\\WebRobotConsole\\WebRobotConsole\\Program.cs",
               "RelativeDocumentMoniker": "WebRobotConsole\\Program.cs",
-              "ToolTip": "C:\\Users\\LX\\Desktop\\WebRobotConsole\\WebRobotConsole\\WebRobotConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\LX\\Desktop\\WebRobotConsole\\WebRobotConsole\\Program.cs",
               "RelativeToolTip": "WebRobotConsole\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T15:03:20.869Z",
               "EditorCaption": ""

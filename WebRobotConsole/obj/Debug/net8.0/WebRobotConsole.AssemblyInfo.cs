@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebRobotConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbb82d9218036a3f405cba9bdf600ad78156e8f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebRobotConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebRobotConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
